@@ -1,0 +1,9 @@
+opencv-python>=3.4.14
+torchgeometry==0.1.2
+Pillow==9.3.0 
+tensorboardX==2.5.0 
+scikit-image==0.22 
+scipy==1.9.1
+torchaudio
+pytorch
+cudatoolkit==11.1
